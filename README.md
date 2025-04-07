@@ -13,10 +13,6 @@ Welcome to the **Minecraft Overlay** project! This is a fun utility built in **C
 - ⏱️ Real-time server/player data
 - 🎨 Lightweight and customizable UI
 
-## 📷 Screenshot
-
-![overlay preview](preview.png) <!-- Replace with actual screenshot -->
-
 ## 🚀 Getting Started
 
 ### Requirements
@@ -30,5 +26,5 @@ Welcome to the **Minecraft Overlay** project! This is a fun utility built in **C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/minecraft-overlay.git
+   git clone https://github.com/SanjeyGM/Fun-Projects.git
    cd minecraft-overlay
