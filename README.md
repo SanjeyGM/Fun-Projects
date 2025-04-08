@@ -27,4 +27,4 @@ Welcome to the **Minecraft Overlay** project! This is a fun utility built in **C
 1. Clone the repository:
    ```bash
    git clone https://github.com/SanjeyGM/Fun-Projects.git
-   cd minecraft-overlay
+   cd Minecraft Overlay
